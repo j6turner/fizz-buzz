@@ -10,7 +10,8 @@ and those divisible by 15 with "FizzBuzz."
 Usage
 -----
 
-
+To view the site, either open the `index.html` file
+in a Web browser or simply [click here](http://htmlpreview.github.com/?https://github.com/j6turner/fizz-buzz/blob/master/fizz-buzz.html).
 
 
 Known Bugs
